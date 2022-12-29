@@ -1,0 +1,17 @@
+FirstBitSolutions
+Python Assignment -2 (Branching)
+1. Write a program to check if the given number is positive or negative.
+2. Write a program to check if user has entered correct userid and password.
+3. Write a program to prompt user to enter userid and password. After verifying
+userid and password display a 4 digit random number and ask user to enter the
+same. If user enters the same number then show him success message
+otherwise failed. (Something like captcha)
+4. Input 5 subject marks from user and display grade(eg.First class,Second class ..)
+5. Write a program to check if person is eligible to marry or not (male age >= 21 and
+female age >= 18)
+6. Accept age of five people and also per person ticket amount and then calculate total
+amount to ticket to travel for all of them based on following condition :
+a. Children below 12 = 30% discount
+b. Senior citizen (above 59) = 50% discount
+c. Others need to pay full.
+7. Write a program to check if given 3 digit number is a palindrome or not.
