@@ -1,0 +1,17 @@
+Python Assignment -1 (Basics)
+1.py Write a program to calculate the percentage of student based on marks of any5 subjects.
+2.py Write a program to calculate area of rectangle based on length and breadth.
+3.py If area of room is 144 sq m. Then how many tiles of size 12*12 sq cm will be required to cover the flooring of room. 
+4.py If there are 20 students who like football, 30 students like badminton and 10 like both. There are 20 who
+ are not interested in any of the games. How many total number of students are there? 
+5.py Convert the time entered in hh,min and sec into seconds.
+6.py Convert temp from Celsius to Fahrenheit. (C/5 = (F-32)/9)
+7.py Convert distant given in feet and inches into meter and centimeter.
+8.py WAP to calculate area of triangle and rectangle 
+9.py WAP to calculate selling price of book based on cost price and discount. 
+10.py WAP to calculate total salary of employee based on basic, da=10% of basic, ta=12% of basic, hra=15% of basic. 
+11.py Find the sum of three digit number. 
+12.py Assign two number and swap it using third variable. 
+13.py Assign two number and swap it without using third variable. 
+14.py Write a program to reverse three digit number. 
+15.py Write a program to accept an integer amount from user and tell minimum number of notes needed for representing that amount. (Hint – Consider 450 -> 4*100 + 50*1 -> 2 : 5 notes)
