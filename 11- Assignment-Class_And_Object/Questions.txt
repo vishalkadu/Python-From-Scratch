@@ -1,0 +1,13 @@
+Python Assignment – (OOP)  
+
+1. Create a class Book with members as bid,bname,price and author.
+    Add following methods:
+        a.  Constructor (Support both parameterized and parameterless) b.  Destructor  c.  ShowBook  
+
+2.  Create a class Product with members as pid,pname,price and quantity .
+    Add following methods: 
+        d.  Constructor (Support both parameterized and parameterless) e.  Destructor  f. ShowBook  
+
+3. Create a class Shirt  with members as sid,sname,type(formal etc),price and size(small,large etc) .
+    Add following methods: 
+        g.  Constructor (Support both parameterized and parameterless) h.  Destructor  i. ShowBook  
