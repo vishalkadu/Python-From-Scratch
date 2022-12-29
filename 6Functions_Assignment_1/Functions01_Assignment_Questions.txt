@@ -1,0 +1,8 @@
+Python Assignment – (Functions)
+1. Write a program to find sum of following series using functions :
+ 1! + 2! + 3! + 4! +….. + n!
+2. Sum of all odd numbers between 1 to n
+3. Sum of all prime numbers between 1 to n
+4. Write a program to find print the following Fibonacci series using
+functions:
+ 1 1 2 3 5 8 n terms
